@@ -11,8 +11,6 @@ import org.pentaho.di.repository.kdr.KettleDatabaseRepositoryMeta;
 import org.pentaho.di.trans.Trans;
 import org.pentaho.di.trans.TransMeta;
 
-import java.util.ArrayList;
-
 /**
  * Created by atyongsi@163.com on 2020/8/13
  */
